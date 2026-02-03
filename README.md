@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-Hello!  My name is Ceyla(Pronounced Jayla) ✨ I'm a ... based in London.
+## Hello!  My name is Ceyla(Pronounced Jayla) ✨ I'm a ... based in London.
 
 - 🔭 I’m currently working on 
 
